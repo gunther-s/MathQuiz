@@ -282,9 +282,9 @@
             this.date.AutoSize = true;
             this.date.Location = new System.Drawing.Point(13, 13);
             this.date.Name = "date";
-            this.date.Size = new System.Drawing.Size(69, 13);
+            this.date.Size = new System.Drawing.Size(67, 13);
             this.date.TabIndex = 24;
-            this.date.Text = "02 May 2020";
+            this.date.Text = "18 July 2020";
             // 
             // Form1
             // 
